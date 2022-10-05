@@ -11,8 +11,8 @@ title                    : "Muriel Dunn - Acoustics and Fisheries"
 title_separator          : "-"
 name                     : &name "Muriel Dunn"
 description              : &description "Personal website with CV and experience"
-url                      : https://mbdunn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/mbdunn.github.io/"
+url                      : "mbdunn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "https://mbdunn.github.io/"
 repository               : #"mbdunn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : dark
+    colorscheme          : "dark"
 staticman
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master" # "master", "gh-pages"
