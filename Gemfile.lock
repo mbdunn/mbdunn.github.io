@@ -259,7 +259,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  github-pages
+  github-pages (~> 227)
   hawkins
   jekyll-feed
   jekyll-sitemap
