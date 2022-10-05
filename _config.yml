@@ -30,7 +30,7 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : "dark"
-staticman
+staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
