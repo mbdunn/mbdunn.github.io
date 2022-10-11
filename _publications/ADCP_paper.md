@@ -2,7 +2,8 @@
 title: "Evaluation of discrete target detection with an acoustic Doppler current profiler"
 collection: publications
 permalink: /publication/ADCP_paper
-excerpt: 'Broadband ADCP for discrete target counting returns comparable results to split-beam echosounder fish counts.'
+excerpt: 'Broadband ADCP for discrete target counting returns comparable results to split-beam echosounder fish counts. 
+<br/><img src='/images/Masters_fieldwork.png'>'
 date: 2022-03-20
 venue: 'Limnology and Oceanography: Methods'
 paperurl: 'https://aslopubs.onlinelibrary.wiley.com/doi/epdf/10.1002/lom3.10484'
@@ -13,5 +14,3 @@ This paper is about extracting discrete target detections from acoustic Doppler 
 [Download paper here](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10484)
 
 Recommended citation: Dunn, M. and Zedel, L. (2022). "Evaluation of discrete target detection with an acoustic Doppler current profiler". Limnology and Oceanography: Methods.
-
-![](Masters_fieldwork.png)
