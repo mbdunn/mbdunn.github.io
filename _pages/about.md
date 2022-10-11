@@ -15,7 +15,7 @@ I am a Ph.D. candidate working in the field of ocean acoustics and fisheries sci
 
 Research
 ------
-Sounds travels much better than light underwater. We can use sound to see understand. When a  sound wave that has been reflected off a target (fish, zooplankton, microstuctures) it contains a lot of information about the targets properties. I primarily work improving and expanding the way we use active acoustic data. Lately, I have been working on using acoustics to improve our knowledge of the distribution and composition of fish and zooplankton. However, my background in physical oceanography, acoustical oceanography and programing keeps me interested and pursuing opportunities that require this expertise.
+Sounds travels much better than light underwater. Therefore, we can use sound to see underwater. Sonars can be used to emit sounds waved in the water at different frequency. When a sound wave that has been reflected off a target (fish, zooplankton, microstuctures) it contains information about the target's properties. In addition, the information varies depending on the frequency of the sound wave. I primarily work towards improving and expanding the way we use active acoustic data. Lately, I have been working on using echosounders (a type of sonar) installed on autonomous ocean-going vehicles to improve our knowledge of the distribution and composition of fish and zooplankton. My background is in physical oceanography, acoustical oceanography and programing and I continue pursuing opportunities that requires this expertise while also always learning more.
 
 
 
