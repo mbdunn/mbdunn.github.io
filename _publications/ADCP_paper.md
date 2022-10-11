@@ -12,4 +12,4 @@ This paper is about extracting discrete target detections from acoustic Doppler 
 
 [Download paper here](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10484)
 
-Recommended citation: Dunn, M. and Zedel, L. (2022). "Evaluation of discrete target detection with an acoustic Doppler current profiler". <i>Limnology and Oceanography: Methods.<i>.
+Recommended citation: Dunn, M. and Zedel, L. (2022). "Evaluation of discrete target detection with an acoustic Doppler current profiler". <i>Limnology and Oceanography: Methods<i>.
