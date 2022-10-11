@@ -1,8 +1,8 @@
 ---
 title: "Evaluation of discrete target detection with an acoustic Doppler current profiler"
 collection: publications
-permalink: /publication/ADCP_paper
-excerpt: 'Fish counting with broadband ADCP'
+permalink: /publication/ADCP_paper.md
+excerpt: 'Broadband ADCP for discrete target counting returns comparable results to split-beam echosounder fish counts.'
 date: 2022-03-20
 venue: 'Limnology and Oceanography: Methods'
 paperurl: 'https://aslopubs.onlinelibrary.wiley.com/doi/epdf/10.1002/lom3.10484'
