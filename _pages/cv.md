@@ -68,12 +68,22 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+  
+Workshop and courses
+========
+* 2022 - Echoview Advanced Automation course. Online.
+* 2021 - ICES WKABM - Workshop on Acoustic Backscattering Models. Online.
+* 2020 - Echoview Advanced data cleaning course. Online.
+* 2019 - ICES Principles and Methods in broadband echosounders abroad G. O. Sars in Bergen, Norway.
+  * Software Carpentries Instructor course. Online.
+* 2018 - BioSonics echosounder course in Seattle, WA.
+
 
 Service and leadership
 ======
- * 2022 - Association for the Sciences of Limnology and Oceanography - Student member \\[1ex]
-         * ICES Working Group on Fisheries Acoustics, Science and Technology - Member (since 2019)\\[1ex]
-         * ARCTOS network - Member (since 2020) - PhD representative (2022/2023)\\[1ex]
-         * The Carpentries - Certified Instructor (since 2019)\\[1ex]
- * 2016 - MEOPAR (Marine Environmental Observation, Prediction and Response) Annual Scientific Meeting - Alumni (Invited) \\ [1ex]
- * 2015 - MEOPAR network - MEOPeer \\[1ex]
+* 2022 - Association for the Sciences of Limnology and Oceanography - Student member 
+  * ICES Working Group on Fisheries Acoustics, Science and Technology - Member (since 2019)
+  * ARCTOS network - Member (since 2020) - PhD representative (2022/2023)
+  * The Carpentries - Certified Instructor (since 2019)
+ * 2016 - MEOPAR (Marine Environmental Observation, Prediction and Response) Annual Scientific Meeting - Alumni (Invited) 
+ * 2015 - MEOPAR network - MEOPeer
