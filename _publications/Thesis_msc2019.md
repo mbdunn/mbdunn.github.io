@@ -9,8 +9,6 @@ paperurl: 'https://research.library.mun.ca/14340/'
 citation: 'Dunn, M., 2019. Developments in fish detection using broadband acoustic doppler current profiler (Master's dissertation, Memorial University of Newfoundland).'
 
 ---
-
-
 This conference paper is about using phase correlation and intensity measurements from acoustic Doppler current profiler (ADCP) to identify fish targets.
 
 [Download paper here](https://www.uaconferences.org/docs/Past_Proceedings/UACE2019_Proceedings.pdf)
