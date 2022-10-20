@@ -9,5 +9,5 @@ location: "Bergen, Norway"
 
 ---
 
-This 5-day workshop covered Git, Unix Shell and Plotting and Programming with Python I, II and III with hands on teaching.
+This 5-day workshop covered Git, Unix Shell and Plotting and Programming with Python I, II and III with hands-on teaching.
 
