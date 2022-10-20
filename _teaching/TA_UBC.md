@@ -1,10 +1,10 @@
 ---
 title: "Physics Lab Course - Teachers Assistant"
 collection: teaching
-type: "Workshop"
+type: "Course"
 permalink: 
 venue: "University of British Columbia"
-date: 2014-09-01 a to 2015-05-01
+date: 2014-09-01 to 2015-05-01
 location: "Vancouver, Canada"
 
 ---
