@@ -1,5 +1,5 @@
 ---
-title: "Developments in fish detection using broadband acoustic doppler current profiler - M.Sc. Thesis"
+title: "Developments in fish detection using broadband acoustic doppler current profiler"
 collection: publications
 permalink: /publication/2019_MSc_thesis
 excerpt: 'This thesis presents results from a month-long bottom mounted deployement of a 600 kHz RD Instruments Workhorse ADCP alongside a 120 kHz BioSonics DTX Submersible Split-Beam Echosounder system and contrasts their capabilities in the context of fish monitoring in high-energy tidal channels.'
