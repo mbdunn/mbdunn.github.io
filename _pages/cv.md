@@ -39,7 +39,7 @@ Work experience
 Skills
 ======
 * Programming
-  * Over eight years experience programming in various languages.
+  * Over eight years experience programming in which ever language is best for the task:
       * MATLAB - fluent
       * Python - fluent
       * R - fluent
@@ -85,5 +85,8 @@ Service and leadership
   * ICES Working Group on Fisheries Acoustics, Science and Technology - Member (since 2019)
   * ARCTOS network - Member (since 2020) - PhD representative (2022/2023)
   * The Carpentries - Certified Instructor (since 2019)
- * 2016 - MEOPAR (Marine Environmental Observation, Prediction and Response) Annual Scientific Meeting - Alumni (Invited) 
- * 2015 - MEOPAR network - MEOPeer
+* 2018-2019 - Pint of Science NL (Event Organizer) 
+  * MUN Climbing Club
+  * MUN Composting initiative (Physical Oceanography branch)
+* 2016 - MEOPAR (Marine Environmental Observation, Prediction and Response) Annual Scientific Meeting - Alumni (Invited) 
+* 2015 - MEOPAR network - MEOPeer
