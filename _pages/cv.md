@@ -17,19 +17,19 @@ Education
 
 Work experience
 ======
-* 2016-2017: Oceanographer Researcher (RBR Ltd.)
+* 2016-2017 - Oceanographer Researcher (RBR Ltd.)
   * Developed a MATLAB oceanographic data analysis toolbox for customers [RSKtools](https://bitbucket.org/rbr/rsktools/src/master/),
   * Code reviews with lead software engineers,
   * Developed algorithms for on-board processing, e.g. on the [Wire Walker](https://www.delmarocean.com/wirewalker),
   * Worked large datasets for analysis and visualization,
   * Represented RBR Ltd. at conferences
 
-* 2016: At-sea Fisheries Observer (Archipelago Marine Research)
+* 2016 - At-sea Fisheries Observer (Archipelago Marine Research)
   * Documented all fishing activity on ground trawl vessels,
   * Ground fish identificaion and biological sampling,
   * Around the clock work in remote locations at-sea.
   
-* 2015: Research Assistant (University of British Columbia)
+* 2015 - Research Assistant (University of British Columbia)
   * Automated daily processing of observational data,
   * Contributed to a large modelling project with code and analysis [UBC Salish Sea Model Project](https://salishsea.eos.ubc.ca/),
   * Tidal analysis with observational data and model results,
@@ -56,7 +56,7 @@ Skills
       * Sonar5-Pro
   * Developing customized code to process and analyze datasets and automation.
 
-Publications
+Publications and reports
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
