@@ -1,20 +1,11 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
-tags:
-  - cool posts
-  - category1
-  - category2
+title: 'Effective marine mapping using sonar'
+date: 2021-01-07
+permalink: /posts/2021-01-07-Calibrating
+
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+[Link to article](https://www.akvaplan.niva.no/mynewsdesk-articles/effektiv-marin-kartlegging-ved-hjelp-av-ekkolodd/)
 
-Headings are cool
-======
 
-You can have many headings
-======
-
-Aren't headings cool?
-------
+<br/><img src='/images/2021-01-7Calibratingphoto.jpg'>"
