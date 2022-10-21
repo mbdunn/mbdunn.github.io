@@ -9,4 +9,4 @@ Article about field campaign in Ny-Ålesund in Svalbard.
 [Link to article](https://forskersonen.no/fisk-havet-meninger/et-nytt-ekkolodd-kan-gjenkjenne-akkurat-hvilken-fisk-du-seiler-over/2017809)
 
 
-<br/><img src='/images/2022_AZKABAN.jpg'>"
+<br/><img src='/images/2022_AZKABAN.jpg'>
