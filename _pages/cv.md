@@ -83,8 +83,8 @@ Service and leadership
 ======
 * 2022 - Association for the Sciences of Limnology and Oceanography - Student member 
   * ICES Working Group on Fisheries Acoustics, Science and Technology - Member (since 2019)
-  * ARCTOS network - Member (since 2020) - PhD representative (2022/2023)
-  * The Carpentries - Certified Instructor (since 2019)
+  * [ARCTOS network](https://arctos.uit.no/) - Member (since 2020) - PhD representative (2022/2023)
+  * [The Carpentries](https://carpentries.org/) - Certified Instructor (since 2019)
 * 2018-2019 - Pint of Science NL (Event Organizer) 
   * MUN Climbing Club
   * MUN Composting initiative (Physical Oceanography branch)
