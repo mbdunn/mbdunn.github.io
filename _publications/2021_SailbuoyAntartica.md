@@ -9,6 +9,5 @@ paperurl: 'https://www.uaconferences.org/docs/Past_Proceedings/UACE2019_Proceedi
 citation: 'Ramasco, V., Dunn, M. (2021) Sailbuoy in Antarctica: A survey for the Norwegian Polar Institute. Akvaplan-niva Report 2021 62586.01'
 
 ---
-[Download paper here](https://www.uaconferences.org/docs/Past_Proceedings/UACE2019_Proceedings.pdf)
 
 Recommended citation: Ramasco, V., Dunn, M. (2021) Sailbuoy in Antarctica: A survey for the Norwegian Polar Institute. Akvaplan-niva Report 2021 62586.01
