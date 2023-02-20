@@ -50,6 +50,8 @@ Skills
       * Echosounders
       * CTDs
       * Drifters
+	  * Light sensors
+	  * Underwater camera (SubC camera)
   * Data processing in specialized software
       * Echoview
       * LSSS
@@ -71,6 +73,7 @@ Talks
   
 Workshop and courses
 ========
+* 2023 - Kongsberg EK80 User Workshop. Tromsø.
 * 2022 - Echoview Advanced Automation course. Online.
 * 2021 - ICES WKABM - Workshop on Acoustic Backscattering Models. Online.
 * 2020 - Echoview Advanced data cleaning course. Online.
