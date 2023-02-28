@@ -11,18 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Fisheries Sciences - Fisheries and Marine Institute of Memorial University of Newfoundland
-* M. Sc. in Physical Oceanography - Memorial University of Newfoundland
+* Ph.D. Fisheries Sciences (2019 - ongoing) - Fisheries and Marine Institute of Memorial University of Newfoundland
+* M. Sc. in Physical Oceanography (2017-2019) - Memorial University of Newfoundland
 * B. Sc. Combined Major in Physics & Oceanography - University of British Columbia
 
 Work experience
 ======
+* 2019-2023 - PhD student researcher (Akvaplan-niva AS)
+  * Proposal writing and collaboration development,
+  * Advising on acoustic methods, technology and use for industry and research projects,
+  * Participate in report writing,
+  * Quality check of acoustic monitoring from autonomous vehicles. 
+  
 * 2016-2017 - Oceanographer Researcher (RBR Ltd.)
   * Developed a MATLAB oceanographic data analysis toolbox for customers [RSKtools](https://bitbucket.org/rbr/rsktools/src/master/),
   * Code reviews with lead software engineers,
   * Developed algorithms for on-board processing, e.g. on the [Wire Walker](https://www.delmarocean.com/wirewalker),
   * Worked large datasets for analysis and visualization,
-  * Represented RBR Ltd. at conferences
+  * Represented RBR Ltd. at conferences.
 
 * 2016 - At-sea Fisheries Observer (Archipelago Marine Research)
   * Documented all fishing activity on ground trawl vessels,
@@ -56,7 +62,7 @@ Skills
       * Echoview
       * LSSS
       * Sonar5-Pro
-  * Developing customized code to process and analyze datasets and automation.
+  * Developing customized code to process and analyze datasets and automation [Github](https://github.com/mbdunn).
 
 Publications and reports
 ======
@@ -78,18 +84,19 @@ Workshop and courses
 * 2021 - ICES WKABM - Workshop on Acoustic Backscattering Models. Online.
 * 2020 - Echoview Advanced data cleaning course. Online.
 * 2019 - ICES Principles and Methods in broadband echosounders abroad G. O. Sars in Bergen, Norway.
-  * Software Carpentries Instructor course. Online.
+* 2019 - Software Carpentries Instructor course. Online.
 * 2018 - BioSonics echosounder course in Seattle, WA.
 
 
 Service and leadership
 ======
+
 * 2022 - Association for the Sciences of Limnology and Oceanography - Student member 
-  * ICES Working Group on Fisheries Acoustics, Science and Technology - Member (since 2019)
-  * [ARCTOS network](https://arctos.uit.no/) - Member (since 2020) - PhD representative (2022/2023)
-  * [The Carpentries](https://carpentries.org/) - Certified Instructor (since 2019)
+* 2020 - ongoing - [ARCTOS network](https://arctos.uit.no/) - Member - *PhD representative* (2022/2023)
+* 2019 - ongoing - ICES Working Group on Fisheries Acoustics, Science and Technology - Member
+* 2019 - ongoing - [The Carpentries](https://carpentries.org/) - Certified Instructor
 * 2018-2019 - Pint of Science NL (Event Organizer) 
-  * MUN Climbing Club
-  * MUN Composting initiative (Physical Oceanography branch)
+* 2018-2019 - MUN Climbing Club
+* 2018-2019 - MUN Composting initiative (Physical Oceanography branch)
 * 2016 - MEOPAR (Marine Environmental Observation, Prediction and Response) Annual Scientific Meeting - Alumni (Invited) 
 * 2015 - MEOPAR network - MEOPeer
