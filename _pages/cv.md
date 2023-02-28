@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. Fisheries Sciences (2019 - ongoing) - Fisheries and Marine Institute of Memorial University of Newfoundland
 * M. Sc. in Physical Oceanography (2017-2019) - Memorial University of Newfoundland
-* B. Sc. Combined Major in Physics & Oceanography - University of British Columbia
+* B. Sc. Combined Major in Physics & Oceanography (2010-2015) - University of British Columbia
 
 Work experience
 ======
