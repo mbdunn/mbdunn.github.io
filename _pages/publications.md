@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive-taxonomy
 title: "Publications and reports"
 permalink: /publications/
 author_profile: true
