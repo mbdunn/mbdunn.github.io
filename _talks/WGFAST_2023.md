@@ -12,4 +12,4 @@ Presented on our mesocosm research with model-informed classification of zooplan
 
 M. Dunn, C. McGowan-Yallop, G. Pedersen, S. Falk-Petersen, M. Daase, K. Last, T.J. Langbehn, S. Fielding, A.S. Brierley, F. Cottier, S.L. Basedow, L. Camus & M. Geoffroy. 
 
-<br/><img src='/images/WGFAST23_talk.jpg' width="50">"
+<br/><img src='/images/WGFAST23_talk.jpg' width="500">"
