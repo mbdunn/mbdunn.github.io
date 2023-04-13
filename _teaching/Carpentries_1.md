@@ -2,7 +2,7 @@
 title: "Software Carpentries Shell/Git/Python"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/Carpentries_1
+#permalink: /teaching/Carpentries_1
 venue: "University of Bergen (online)"
 date: 2021-09-20 - 2021-09-24
 location: "Bergen, Norway"
