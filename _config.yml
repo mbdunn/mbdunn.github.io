@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "@mumudunn"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   avatar           : "MurielDunnPicture.jpeg"
   bio              : "I study ocean acoustics and fisheries sciences. I am interested in oceanographic instrumentation, physics and the ocean."
   location         : "Tromsø, Norway"
-  employer         : "MUN/Akvaplan-niva"
+  employer         : "SINTEF Ocean"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=74XZBMkAAAAJ&hl=en"
   email            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@mumudunn"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
