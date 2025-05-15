@@ -10,7 +10,7 @@ redirect_from:
 
 <br/><img src='/images/BarentsSea_me.jpg'>
 
-I am a Ph.D. candidate working in the field of ocean acoustics and fisheries sciences. I have an affinity for programming and a passion for data analysis and visualization. I am interested in applying my knowledge of ocean acoustics and instrumentation to study biodiversity in the Arctic.
+I am a research scientist at SINTEF Ocean working in ocean obervations and fisheries acoustics. 
 
 
 Research
